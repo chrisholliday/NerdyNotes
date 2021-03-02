@@ -2,6 +2,7 @@
 Just a collection of interesting links and document snippets that I find handy at the moment
 
 DevOps Collective Events – DevOps Collective Events
+
 https://events.devopscollective.org/
 
 PowerShell Community Call - February 18, 2021 - YouTube
